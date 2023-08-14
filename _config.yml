@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kemuel Chavarria Moreno"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Estudiante de Administración de tecnología de información en el ITCR"
+  location         : "Cartago, Cantón Central, Distrito Oriental, Barrio Cerrillos, Residencial Las Alejandrinas"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "kemuel.chavarria"
   foursquare       :
-  github           : "academicpages"
+  github           : "KemsCh05"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "kachvm_05"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
+  linkedin         : "kemuel-abiel-chavarría-moreno-5b57201a5"
+  orcid            : 
+  pinterest        : "kemuel_2000"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "KaChvM_05"
   vine             :
   weibo            :
   xing             :
