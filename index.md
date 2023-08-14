@@ -1,72 +1,13 @@
 ---
-layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+layout: Página web personal de Kemuel Abiel Chavarría Moreno
+title: Kemuel Abiel Chavarría Moreno
+tagline: Página web personal
+description: Portal principal de mi página web
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+Hola, bienvenido a mi página web personal. Mi nombre es Kemuel Abiel Chavarría Moreno. Soy estudiante de Administración de tecnología de información en el Instituto Tecnológico de Costa Rica, actualmente estoy cursando el cuarto año de carrera y si todo sale según mis planes me graduaré a finales del año 2024. Entré en el año 2020 a esta carrera, ya que desde joven siempre me ha apasionado todo lo relacionado al ámbito de la tecnología y el mundo empresarial y ATI realiza una muy buena integración de ambos mundos. Durante el transcurso de mi carrera he matriculado cursos que realmente han dejado una marca en mi persona como estudiante entre ellos puedo mencionar: Inteligencia de Negocios, Diseño de Software, Administración de proyectos, Arquitectura de aplicaciones, Negocios Electrónicos y muchos más.
 
-For me, the painful aspects of making a website are
+Todavía no he incursionado en el mundo laboral, pero mi plan es empezar mi último año de carrera desempeñando una pasantía en una empresa consolidada. Entre mis metas está lograr obtener un trabajo en empresas tales como Microsoft, IBM e Intel desempeñando y aplicando de manera profesional mis conocimientos adquiridos a lo largo de la carrera. Claro que esas son algunas de mis empresas favoritas, pero si llegan a presentarse oportunidades laborales realmente buenas e interesantes en otras empresas con la finalidad de obtener experiencia laboral, me encuentro abierto a ellas. Espero con muchas ansias poder entrar en el mercado laboral y desempeñarme cómo profesional ATI.
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
+Ahora bien, cuando no estoy enfocado en el mundo de mis estudios tengo una amplia variedad de pasatiempos. Me encanta practicar deportes en solitario o con mis amigos, entre mis favoritos se encuentran el fútbol, tenis y baloncesto. En el fútbol soy seguidor de distintos equipos nacionales e internacionales. En el tenis, mis jugadores favoritos son Roger Federer y Novak Djokovic. En el baloncesto soy fan de los Golden State Warriors y mi jugador favorito Stephen Curry. Además de ser apasionado a los deportes, soy un entusiasta de los videojuegos y fanático de la música.
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
-
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
-
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
-
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
-
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
-
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
-
----
-
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
-
-Also see my [tutorials](https://kbroman.org/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
