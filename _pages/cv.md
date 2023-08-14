@@ -9,51 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formación académica
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2007 - 2012 - Tejar, Cartago - Educación primaria, Escuela San Felipe Neri
+* 2013 - 2015 - Taras, Cartago - Educación secundaria setimo, octavo y noveno año, Liceo Experimental Bilingüe José Figueres Ferrer
+* 2015 - 2017 - Taras, Cartago - Educación general básica décimo y undécimo año, Bachillerato en Educación Media, Liceo Experimental Bilingüe José Figueres Ferrer
+* Enero 2018 - Marzo 2018 - Centerville, Dayton, Ohio - Intercambio académico en Centerville High School
+* 2020 - Actualidad - Cartago, Cartago - Educación superior, Administración en tecnología de información, Instituto Tecnológico de Costa Rica
 
-Work experience
+Experiencia Laboral
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Julio 2018 - Enero 2019: Call Center Agent, Customer Service
+  * Sykes Enterprises
+  
+Habilidades
+======
+* Conocimiento básico-intermedio en lenguajes de programación tales cómo Python, HTML, CSS, Java, JavaScript, Microsoft SQL y Bases de Datos no relacionales
+* Conocimiento básico-intermedio de herramientas de Business Inteligence tales cómo Tableau y PowerBi
+* Conocimiento en metodologías ágiles de administración de proyectos tales como Scrum, Kanban, Lean y Scaled Agile.
+* Liderazgo
+* Trabajo en equipo
+* Mejora continua en el aprendizaje 
+* Flexibilidad laboral
+* Pensamiento crítico en la toma de decisiones
+* Comunicación asertiva
+* Habilidades interpersonales de comunicación
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+
+Idiomas
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Español - Idioma nativo
+* Inglés - Nivel B2 TOEIC, Centro Cultural Costarricense-Norteamericano
