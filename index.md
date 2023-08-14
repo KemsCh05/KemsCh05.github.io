@@ -2,7 +2,7 @@
 layout: Kemuel Abiel Chavarria Moreno
 title: Blog personal de Kemuel Abiel Chavarria Moreno
 tagline: Mi blog personal
-description: Minimal tutorial on making a simple website with GitHub Pages
+description: Aquí va la descripción de mi sitio web personal
 ---
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
