@@ -1,7 +1,7 @@
 ---
-layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
+layout: Kemuel Abiel Chavarria Moreno
+title: Blog personal de Kemuel Abiel Chavarria Moreno
+tagline: Mi blog personal
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
