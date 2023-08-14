@@ -12,7 +12,7 @@ Hola, bienvenido a mi página web personal. Mi nombre es Kemuel Abiel Chavarría
 
 Ámbito laboral
 ======
-Todavía no he incursionado en el mundo laboral, pero mi plan es empezar mi último año de carrera desempeñando una pasantía en una empresa consolidada. Entre mis metas está lograr obtener un trabajo en empresas tales como Microsoft, IBM e Intel desempeñando y aplicando de manera profesional mis conocimientos adquiridos a lo largo de la carrera. Claro que esas son algunas de mis empresas favoritas, pero si llegan a presentarse oportunidades laborales realmente buenas e interesantes en otras empresas con la finalidad de obtener experiencia laboral, me encuentro abierto a ellas. Espero con muchas ansias poder entrar en el mercado laboral y desempeñarme cómo profesional ATI.
+Todavía no he incursionado en el mundo laboral como ATI, pero mi plan es empezar mi último año de carrera desempeñando una pasantía en una empresa consolidada. Entre mis metas está lograr obtener un trabajo en empresas tales como Microsoft, IBM e Intel desempeñando y aplicando de manera profesional mis conocimientos adquiridos a lo largo de la carrera. Claro que esas son algunas de mis empresas favoritas, pero si llegan a presentarse oportunidades laborales realmente buenas e interesantes en otras empresas con la finalidad de obtener experiencia laboral, me encuentro abierto a ellas. Espero con muchas ansias poder entrar en el mercado laboral y desempeñarme cómo profesional ATI.
 
 Pasatiempos
 ======
